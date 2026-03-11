@@ -1,7 +1,7 @@
 """
 recommender.py
 Carga de datos, recomendación de libros y análisis de Reading DNA.
-Todo como funciones simples — sin clases.
+Todo como funciones simples
 """
 
 import re
